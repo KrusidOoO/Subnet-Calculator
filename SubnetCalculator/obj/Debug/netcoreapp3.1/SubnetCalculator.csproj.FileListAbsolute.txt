@@ -1,0 +1,11 @@
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\bin\Debug\netcoreapp3.1\SubnetCalculator.exe
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\bin\Debug\netcoreapp3.1\SubnetCalculator.deps.json
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\bin\Debug\netcoreapp3.1\SubnetCalculator.runtimeconfig.json
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\bin\Debug\netcoreapp3.1\SubnetCalculator.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\bin\Debug\netcoreapp3.1\SubnetCalculator.dll
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\bin\Debug\netcoreapp3.1\SubnetCalculator.pdb
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\obj\Debug\netcoreapp3.1\SubnetCalculator.csprojAssemblyReference.cache
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\obj\Debug\netcoreapp3.1\SubnetCalculator.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\obj\Debug\netcoreapp3.1\SubnetCalculator.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\obj\Debug\netcoreapp3.1\SubnetCalculator.dll
+C:\Users\Bruger\Desktop\GitHub\Subnet-Calculator\SubnetCalculator\obj\Debug\netcoreapp3.1\SubnetCalculator.pdb
